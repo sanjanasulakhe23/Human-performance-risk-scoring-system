@@ -123,6 +123,8 @@ Clear separation between Low, Medium, and High risk groups.
 
 **Why it matters:**  
 Confirms that the risk score meaningfully differentiates individuals.
+<img width="567" height="455" alt="image" src="https://github.com/user-attachments/assets/2f7a9e90-3dd6-44d7-a664-083df72bae16" />
+
 
 ---
 
@@ -133,6 +135,8 @@ Confirms that the risk score meaningfully differentiates individuals.
 
 **Why it matters:**  
 Visually validates the core logic of the model.
+<img width="567" height="455" alt="image" src="https://github.com/user-attachments/assets/a2151ca3-9a93-4358-afbd-0f41a4b477bd" />
+
 
 ---
 
@@ -142,6 +146,7 @@ Higher behavioral volatility corresponds to higher risk.
 
 **Why it matters:**  
 Demonstrates that instability amplifies performance breakdown risk, making the system more realistic and advanced.
+<img width="567" height="455" alt="image" src="https://github.com/user-attachments/assets/e151c786-1586-4821-b3cc-a582570445a6" />
 
 ---
 
